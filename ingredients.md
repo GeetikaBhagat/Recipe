@@ -23,3 +23,4 @@ For garnishing:–
 2-3 tbsp Freshly scrapped coconut (Optional)
 2-3 tbsp Fresh coriander, finely chopped
 Red chilli powder to sprinkle
+<br><br>[Recipe](recipe.md)
